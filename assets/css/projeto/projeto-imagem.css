@@ -26,6 +26,15 @@
     filter: blur(0);
 }
 
+@media screen and (max-width: 360px) {
+    .projeto__imagem {
+        height: 400px;
+        width: 100%;
+        filter: blur(0);
+        opacity: 0.9;
+    }
+}
+
 /* .projeto__imagem--github {
     background-position: center;
     background-repeat: repeat;

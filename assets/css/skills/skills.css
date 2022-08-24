@@ -9,3 +9,13 @@
     height: 60%;
     padding-top: 10%;
 }
+
+@media screen and (max-width: 360px) {
+    .skills {
+        margin-top: 20%;
+    }
+
+    .skills .container {
+        width: 100%;
+    }
+}

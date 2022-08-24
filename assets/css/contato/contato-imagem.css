@@ -2,3 +2,10 @@
     width: 75px;
     height: 75px;
 }
+
+@media screen and (max-width: 360px) {
+    .contato__imagem {
+        width: 50px;
+        height: 50px;
+    }
+}

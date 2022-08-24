@@ -6,3 +6,10 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+@media screen and (max-width: 360px) {
+    .sobre-gif {
+        width: 200px;
+        height: 200px;
+    }
+}

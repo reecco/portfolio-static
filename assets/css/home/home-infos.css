@@ -26,3 +26,16 @@
     scale: 1.01;
     font-weight: 200;
 }
+
+@media screen and (max-width: 360px) {
+    .home__nome--titulo {
+        font-size: 2.7rem;
+        
+    }
+}
+
+@media screen and (max-width: 340px) {
+    .home__nome--titulo {
+        font-size: 2.5rem;
+    }
+}

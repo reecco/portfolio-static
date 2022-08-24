@@ -7,3 +7,9 @@
     background-color: rgb(250, 252, 254);
     border-radius: 1%;
 }
+
+@media screen and (max-width: 360px) {
+    .skills__lista {
+        flex-direction: row;
+    }
+}

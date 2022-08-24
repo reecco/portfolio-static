@@ -5,3 +5,12 @@
 .menu__item:hover {
     scale: 1.01;
 }
+
+@media screen and (max-width: 768px) {
+    .menu__item {
+        padding: 5px;
+    }
+    .menu__item:first-child {
+        font-weight: normal;
+    }
+}

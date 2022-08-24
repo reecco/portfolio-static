@@ -13,3 +13,11 @@
     width: 100%;
     padding-top: 5%;
 }
+
+@media screen and (max-width: 360px) {
+    .sobre .container {
+        margin-top: 20%;
+        flex-direction: column;
+        width: 50%;
+    }
+}

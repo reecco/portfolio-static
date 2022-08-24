@@ -4,3 +4,9 @@
     text-shadow: 2px 1px 1px;
     color: rgb(55, 58, 64);
 }
+
+@media screen and (max-width: 360px) {
+    .skills__titulo {
+        font-size: 3rem;
+    }
+}

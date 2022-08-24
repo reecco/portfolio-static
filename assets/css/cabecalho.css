@@ -14,3 +14,15 @@ body {
     color: #1f2020;
     padding: 8px;
 }
+
+@media screen and (max-width: 768px) {
+    .cabecalho .container {
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .cabecalho .container {
+        flex-direction: column;
+    }
+}

@@ -7,3 +7,9 @@
     transition: 0.4s;
     scale: 1.1;
 }
+
+@media screen and (max-width: 360px) {
+    .contato__item {
+        margin: 10px;
+    }
+}
