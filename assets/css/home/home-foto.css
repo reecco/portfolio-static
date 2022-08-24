@@ -1,0 +1,20 @@
+.home__foto {
+    background: red;
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    box-shadow: 10px 10px 10px #b3c5c3fe;
+    transition: 0.5s;
+}
+
+.home__foto:hover {
+    transition: 0.5s;
+    box-shadow: 10px 10px 10px #707978fe;
+}
+
+.home__foto--fred {
+    background-image: url('../../images/me.jpeg');
+}

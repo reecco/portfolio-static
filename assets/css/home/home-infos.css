@@ -1,0 +1,28 @@
+.home__nome--titulo {   
+    font-size: 5rem;
+    top: 0;
+    margin: 20px 0 20px 0;
+    text-shadow: 2px 1px 1px;
+    color: rgb(55, 58, 64);
+    transition: 0.5s;
+}
+
+.home__nome--titulo:hover {
+    transition: 0.5s;
+    color: black;
+    scale: 1.01;
+}
+
+.home__profissao--titulo {
+    font-size: 2rem;
+    text-align: center;
+    text-shadow: 1px 1px 1px;
+    color: rgb(55, 58, 64);
+    transition: 0.5s;
+}
+
+.home__profissao--titulo:hover {
+    transition: 0.5s;
+    scale: 1.01;
+    font-weight: 200;
+}

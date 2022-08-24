@@ -1,0 +1,7 @@
+.menu__item:first-child {
+    font-weight: bold;
+}
+
+.menu__item:hover {
+    scale: 1.01;
+}

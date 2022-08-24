@@ -1,0 +1,45 @@
+.dropbtn {
+    cursor: pointer;
+    font-size: 21px;  
+    border: none;
+    outline: none;
+    /* color: white; Modo escuro*/
+    color: #1f2020;
+    background-color: inherit;
+    margin: 0 10px 0 10px;
+    font-weight: bold;
+}
+
+.dropbtn:hover {
+    opacity: 0.3;
+    transition: 0.2s;
+    scale: 1.01;
+}
+  
+.dropdown-content {
+    display: none;
+    position: absolute;
+    /* background-color: #1a202c; Modo escuro*/
+    background-color: #FEFEFE;
+}
+  
+.lang {
+    font-size: 21px;
+    float: none;
+    /* color: #FEFEFE; Modo escuro*/
+    color: #1f2020;
+    padding: 25px 10px 10px 10px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.lang:hover {
+    opacity: 0.3;
+    transition: 0.2s;
+    scale: 1.01;
+}
+  
+.show {
+    display: block;
+}

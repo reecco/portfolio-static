@@ -1,0 +1,10 @@
+.projetos {
+    margin-top: 10%;
+}
+
+.container-slideshow {
+    max-width: 1000px;
+    position: relative;
+    margin: 5% auto 0;
+    padding-top: 10%;
+}

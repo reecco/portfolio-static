@@ -1,0 +1,9 @@
+.contato__item {
+    padding: 0 2rem;
+    transition: 0.4s;
+}
+
+.contato__item:hover {
+    transition: 0.4s;
+    scale: 1.1;
+}

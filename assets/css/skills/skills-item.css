@@ -1,0 +1,27 @@
+.skills__item {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(253, 254, 255);
+    margin: 10px;
+    line-height: 70px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    box-shadow: 3px 3px 3px #CCCCCC;
+    transition: 0.3s;
+    border-radius: 10%;
+}
+
+.skills__item:hover {
+    font-size: 17px;
+    box-shadow: 5px 5px 5px #CCCCCC;
+    opacity: 0.6;
+    transition: 0.5s;
+    scale: 1.05;
+}
+
+.skills__image {
+    width: 48px;
+    height: 48px;
+}

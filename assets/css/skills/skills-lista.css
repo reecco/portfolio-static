@@ -1,0 +1,9 @@
+.skills__lista {
+    padding: 10px 5px;
+    margin-top: 4%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: rgb(250, 252, 254);
+    border-radius: 1%;
+}

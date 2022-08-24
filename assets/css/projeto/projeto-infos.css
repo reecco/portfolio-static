@@ -1,0 +1,28 @@
+/* .projeto__numero {
+    color: #f2f2f2;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 100%;
+} */
+
+.projeto__nome {
+    color: black;
+    font-size: 20px;
+    padding: 8px 12px;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+}
+
+.projeto__mensagem {
+    color: black;
+    font-size: 20px;
+    padding: 8px;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    text-align: center;
+}

@@ -1,0 +1,15 @@
+footer {
+    padding-top: 10%;
+}
+
+.rodape {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(250, 252, 254);
+}
+
+.rodape__texto {
+    padding-top: 10px;
+}

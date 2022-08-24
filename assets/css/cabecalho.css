@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #FEFEFE;
+}
+
+.cabecalho .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* background-color: #1a202c; */ /*Modo escuro*/
+    /* color: #FEFEFE; Modo escuro*/
+    color: #1f2020;
+    padding: 8px;
+}

@@ -1,0 +1,9 @@
+.menu__link {
+    padding: 10px;
+    font-size: 21px;
+}
+
+.menu__link:hover {
+    opacity: 0.3;
+    transition: 0.2s;
+}

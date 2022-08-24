@@ -1,0 +1,20 @@
+.tema {
+    padding: 10px;
+    font-size: 21px;
+}
+
+.darkmode-img {
+    background-image: url('../../images/darkmode.png');
+    width: 30px;
+}
+
+.darkmode-img:hover {
+    cursor: pointer;
+    transition: 0.5s;
+    scale: 1.1;
+}
+
+.darkmode-img:active {
+    transition: 0.2s;
+    scale: 0.9;
+}
