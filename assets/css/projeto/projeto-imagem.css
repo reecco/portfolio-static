@@ -7,6 +7,10 @@
     background-image: url('../../images/portfolio.png');
 }
 
+.projeto__imagem--download-video {
+    background-image: url('../../images/download-video.png');
+}
+
 .projeto__imagem {
     height: 500px;
     width: 100%;
