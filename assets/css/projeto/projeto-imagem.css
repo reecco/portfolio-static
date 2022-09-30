@@ -11,6 +11,10 @@
     background-image: url('../../images/download-video.png');
 }
 
+.projeto__imagem--twitter-api {
+    background-image: url('../../images/twitter-api.png');
+}
+
 .projeto__imagem {
     height: 500px;
     width: 100%;
